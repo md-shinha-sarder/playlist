@@ -8,9 +8,9 @@ https://bongoflixbd.top/bk/53.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="News", BTV News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/500px-BTV_Chattogram_Logo.svg.png" group-title="Bangla", BTV CTG
-https://satoshi-cors.herokuapp.com/https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/SG/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/500px-Sangsad_Television_Emblem.svg.png" group-title="Bangla", BTV Sansad
-http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4D0hyrt/20250529-071035.png" group-title="News", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://bongoflixbd.top/jamunatv.m3u8?user=bongoflix&pass=eaminvai
@@ -33,7 +33,7 @@ https://edge2.roarzone.info:8444/roarzone/bk/4/index.m3u8?token=f883393ae0059187
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 https://tvsen6.aynascope.net/asiantv/index.m3u8?e=1768372720&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c6235bae9137654593ffc185faae0a56
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="Bangla",SA TV
-https://tvsen6.aynascope.net/satv/index.m3u8?e=1768372721&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b76f55a24b20ec911bafa17d8747995a
+https://satoshi-cors.herokuapp.com/http://116.204.149.16/satv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzvgdpRg/20250529-102312.png" group-title="News", DBC News
 https://bongoflixbd.top/bk/7.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NBkk4fT/20250529-102724.png" group-title="News", ATN News
@@ -44,6 +44,8 @@ https://bongoflixbd.top/bk/3.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgzHqBLL/20250529-072107.png" group-title="Bangla", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://bongoflixbd.top/bk/54.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png",MOHONA TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHBMzPkW/20250529-102502.png" group-title="Bangla", ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://bongoflixbd.top/bk/2.m3u8?user=bongoflix&pass=eaminvai
@@ -81,9 +83,9 @@ https://bongoflixbd.top/bk/56.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png" group-title="Bangla", Movie Bangla
 https://bongoflixbd.top/bk/86.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0MVZZT9/20250529-101947.png" group-title="Bangla", Boishakhi
-https://bongoflixbd.top/bk/61.m3u8?user=bongoflix&pass=eaminvai
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/19.png" group-title="Bangla",Bangla tv
-https://edge2.roarzone.info:8444/roarzone/bk/19/index.m3u8?token=0a949527a9b774bcd3f41c3fb4b670e937e6121d-8ed2fab895f4f4d08c49a94bfe30a7a7-1768369897-1768366297
+https://satoshi-cors.herokuapp.com/http://116.204.149.16/banglatv/mono.m3u8
 # --- Category: Sports ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707_141739.png" group-title="Sports", T Sports HD
 https://bongoflixbd.top/tsports.m3u8?user=bongoflix&pass=eaminvai
@@ -125,6 +127,10 @@ https://bongoflixbd.top/bk/30.m3u8?user=bongoflix&pass=eaminvai
 https://bongoflixbd.top/bk/34.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLdjn6zR/20250602_220804.png" group-title="Indian", Colors Bangla
 https://bongoflixbd.top/bk/66.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/spHQvPTh/NEWS18-BANGLA.png",NEWS18 BANGLA
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LX122cy3/20250529-111624.png" group-title="Indian", Enterr 10
 https://bongoflixbd.top/enterr10.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png" group-title="Indian", Sony Aath
@@ -137,8 +143,8 @@ https://bongoflixbd.top/bk/29.m3u8?user=bongoflix&pass=eaminvai
 # --- Category: Hindi & Movies ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yDQ0JGC/20250529_131726.png" group-title="Hindi", Sony Television
 https://bongoflixbd.top/bk/38.m3u8?user=bongoflix&pass=eaminvai
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zX9vhkhB/20250529_131834.png" group-title="Hindi", Sony Max
-https://bongoflixbd.top/bk/77.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/zW7MbGg6/SONY-SAB-HD.png",SONY SAB HD
+https://indian.murgifarm.xyz/sliv/stream.php?id=sony-sab-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zX9vhkhB/20250529_131834.png" group-title="Hindi", Sony Max HD
 https://bongoflixbd.top/toffee/sony_max_hd.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYbYqvJh/20250529_132238.png" group-title="Hindi", Sony Max 2
@@ -175,6 +181,8 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a
 https://bongoflixbd.top/sangeetbangla.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5yq7ncL/20250529_120144.png" group-title="Music", 9Xm
 https://bongoflixbd.top/9xm.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/Kg55108/ZING.png",ZING
+http://poketporota.noobmaster.xyz:8080/ZING/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="Music", Zoom
 https://bongoflixbd.top/zoom.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png" group-title="Music", Yrf Music
