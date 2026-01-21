@@ -113,7 +113,7 @@ https://bongoflixbd.top/bk/dubai-sports.m3u8?user=bongoflix&pass=eaminvai
 https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=2e52eb16bae9409eed06bf1b250cb1dbad6325c1-57a5d3bc10600861763b1831067e16a8-1768580228-1768576628
 https://bongoflixbd.top/star-sports-1-hd.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNvbVTHy/20250702_032050.png" group-title="Sports", Star Sports 2
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-2/index.m3u8?token=bff9aaebb6ad8d8e08e78260980e528b30ae64aa-d989786c485f6bb3a0d25dde4a3f7e46-1768580228-1768576628
+http://103.158.133.62:8080/starsports2/tracks-v1a1/mono.m3u8
 https://bongoflixbd.top/star-sports-2-hd.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50ykjF9d/20250702_032238.png" group-title="Sports", Star Sports Select 1
 https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-1/index.m3u8?token=e220debc5e662ad012a4b56c73b43e819ebef1a9-b1980ff723210c67de018dc62d650ea5-1768916210-1768912610
@@ -128,6 +128,7 @@ https://bongoflixbd.top/sony-sports-2-hd.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH9g3jb9/20250529_123011.png" group-title="Sports", Sony Sports 3
 https://bongoflixbd.top/sony-sports-3-hd.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMLRN93q/20250529_123147.png" group-title="Sports", Sony Sports 5
+http://103.158.133.62:8080/sonysports5/tracks-v1a1/mono.m3u8
 https://bongoflixbd.top/sony-sports-5-hd.m3u8?user=bongoflix&pass=eaminvai
 
 # --- Category: Indian Bangla ---
