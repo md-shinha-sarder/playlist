@@ -103,7 +103,7 @@ https://spstr.abntv.live/hls/psstream.m3u8
                     
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 1
 https://sdmax111.provegooott.com/41_.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1280px-Logo_bein_sports_1.png" group-title="sports",BEIN SPORTS 1
 https://sdmax111.provegooott.com/32_.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 1
 https://sdmax111.provegooott.com/23_.m3u8
@@ -111,7 +111,7 @@ https://sdmax111.provegooott.com/23_.m3u8
 https://sdmax111.provegooott.com/7_.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 2
 https://sdmax111.provegooott.com/42_.m3u8
-#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 2
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1280px-Logo_bein_sports_2.png?20170228135704" group-title="sports",BEIN SPORTS 2
 https://sdmax111.provegooott.com/33_.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 2
 https://sdmax111.provegooott.com/24_.m3u8
@@ -119,11 +119,11 @@ https://sdmax111.provegooott.com/24_.m3u8
 https://sdmax111.provegooott.com/2_.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 3
 https://sdmax111.provegooott.com/43_.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 3
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1280px-Logo_bein_sports_3.png?20170228140009" group-title="BEIN FHD",BEIN SPORTS 3
 https://sdmax111.provegooott.com/34_.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 3 
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1280px-Logo_bein_sports_3.png?20170228140009" group-title="BEIN FHD",BEIN SPORTS 3 
 https://sdmax111.provegooott.com/25_.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 3
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1280px-Logo_bein_sports_3.png?20170228140009" group-title="BEIN FHD",BEIN SPORTS 3
 https://sdmax111.provegooott.com/9_.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 4
 https://sdmax111.provegooott.com/44_.m3u8
