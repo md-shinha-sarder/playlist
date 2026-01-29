@@ -100,96 +100,75 @@ https://d8.merichunidya.com:1686/hls/laligauk.m3u8?md5=C0yx5I0kLqCmG8qQiQyogw&ex
 https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="sports", Star Sports 1
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d6.merichunidya.com:1686/hls/star1in.m3u8?md5=ydvePcx1UFx9sOuxhFuI3w&expires=1769329943
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="sports", Star Sports 1 Hindi
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d5.merichunidya.com:1686/hls/starhindi.m3u8?md5=hsz6uyHn1lbGJSw8ba4J0w&expires=1769329943
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png"group-title="sports", PTV Sports
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/ptvpk.m3u8?md5=82TzICux35feriF7TxuyCg&expires=1769329943
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="sports", Willow HD
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=r_uPqKQ9C615xZtp4WlrtA&expires=1769329943
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="sports",Willow HD 2
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/willowextra.m3u8?md5=SgiEIYFpZ8ZwOxDLxu-yCA&expires=1769329944
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" group-title="sports",Ten Sports
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/tenspk.m3u8?md5=QhA42QnUhBJhjHzRmrzTUQ&expires=1769329944
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="sports",A Sports HD
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/asportshd.m3u8?md5=XOaCZu85yf0MmFtmnmdETw&expires=1769329944
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png"group-title="sports", Sky Sports Cricket
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/skyscric.m3u8?md5=ywvRJFETbFWpauVoTuA84w&expires=1769329944
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png"group-title="sports",Sky Sports Main Event
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d10.merichunidya.com:1686/hls/skysme.m3u8?md5=40866BfjTVM_bKRaChKGfw&expires=1769329944
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png"group-title="sports",TNT 1
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=xlMBwDaB9Y1nYVS6CUJdrg&expires=1769329944
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png"group-title="sports",TNT 2
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d6.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=_RvmPwvkMy_pOl2LhUe1gA&expires=1769329944
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png"group-title="sports",TNT 3
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=IDUbYeylu4AyLdky-ZV4_w&expires=1769329945
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png"group-title="sports",Sky Cinema
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d6.merichunidya.com:1686/hls/skysme.m3u8?md5=rCukSKtGZJNEJOtNVvaXBQ&expires=1769329946
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png"group-title="sports",Sky Sports Action
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/skysact.m3u8?md5=3UnteYNjz17cou1Ui8aqFg&expires=1769329946
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png"group-title="sports",Sky Sports Golf
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/skysgol.m3u8?md5=uUDkVn5okUgymEOzuYj-Wg&expires=1769329947
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png"group-title="sports",Sky Sports Premier League
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/skysprem.m3u8?md5=LUmaqNQqqN-z03Zh1UiZiw&expires=1769329947
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png"group-title="sports",Sky Sports Football
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/skysfott.m3u8?md5=Yi-IvgnvoWW2WTGYLHBzyw&expires=1769329947
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png"group-title="sports",Sky Sports Plus
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d6.merichunidya.com:1686/hls/skysare.m3u8?md5=8ho2mE6Tdw5VDCGEhA6Pug&expires=1769329947
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png"group-title="sports",Sky Sports F1
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d10.merichunidya.com:1686/hls/skysfor1.m3u8?md5=kjjnbWCdIA7wIH-KMjZH0g&expires=1769329947
-
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png"group-title="sports",Premier Sports 1
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/premieruk.m3u8?md5=apffmWRgQtR4UHApixJMlg&expires=1769329948
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png"group-title="sports",Premier Sports 2
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=JLX0PBhY5sZ_qfP3FwNhFQ&expires=1769329948
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png"group-title="sports",ESPN 1
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d5.merichunidya.com:1686/hls/espnusa.m3u8?md5=Ya8NbAZAtGwVE1IE5kRG0g&expires=1769329949
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png"group-title="sports",ESPN 2
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/espn2.m3u8?md5=Rh0KLFPJZZJuLzf8H7iS5g&expires=1769329949
+                    
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 1
+https://sdmax111.provegooott.com/41_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 1
+https://sdmax111.provegooott.com/32_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 1
+https://sdmax111.provegooott.com/23_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 1 
+https://sdmax111.provegooott.com/7_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 2
+https://sdmax111.provegooott.com/42_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 2
+https://sdmax111.provegooott.com/33_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 2
+https://sdmax111.provegooott.com/24_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 2 
+https://sdmax111.provegooott.com/2_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 3
+https://sdmax111.provegooott.com/43_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 3
+https://sdmax111.provegooott.com/34_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 3 
+https://sdmax111.provegooott.com/25_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 3
+https://sdmax111.provegooott.com/9_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 4
+https://sdmax111.provegooott.com/44_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 4
+https://sdmax111.provegooott.com/35_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 4
+https://sdmax111.provegooott.com/26_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 4 
+https://sdmax111.provegooott.com/11_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 5
+https://sdmax111.provegooott.com/45_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 5
+https://sdmax111.provegooott.com/36_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 5 
+https://sdmax111.provegooott.com/27_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 5 
+https://sdmax111.provegooott.com/5_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 6
+https://sdmax111.provegooott.com/46_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 6
+https://sdmax111.provegooott.com/37_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 6
+https://sdmax111.provegooott.com/28_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 6 
+https://sdmax111.provegooott.com/6_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 7
+https://sdmax111.provegooott.com/47_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 7
+https://sdmax111.provegooott.com/38_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 7
+https://sdmax111.provegooott.com/29_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 7 
+https://sdmax111.provegooott.com/13_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 8
+https://sdmax111.provegooott.com/48_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN FHD",BEIN SPORTS 8
+https://sdmax111.provegooott.com/39_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN FHD",BEIN SPORTS 8
+https://sdmax111.provegooott.com/30_.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN FHD",BEIN SPORTS 8 
+https://sdmax111.provegooott.com/16_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN SPORT",BBEIN 9
+https://sdmax111.provegooott.com/49_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://l.top4top.io/p_3678ba1u31.png" group-title="BEIN SPORT",BEIN SPORTS 9
+https://sdmax111.provegooott.com/40_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://d.top4top.io/p_3679voc2w1.jpg" group-title="BEIN SPORT",BEIN SPORTS 9
+https://sdmax111.provegooott.com/31_.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://d.top4top.io/p_36795gr401.jpg" group-title="BEIN SPORT",BEIN SPORTS 9 
