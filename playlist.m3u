@@ -56,11 +56,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://bongoflixbd.top/bk/6.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 group-title="Islamic"  tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Islamic"  tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",IQRA Bangla
+#EXTINF:-1 group-title="Islamic"  tvg-logo="https://iqra.tv/wp-content/uploads/2022/07/Iqra-Logo-PNG.jpg",IQRA Bangla
 https://cd198.anystream.uk:8082/hls/iq53la/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="bangla",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 group-title="Islamic"  tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",Modina TV
+#EXTINF:-1 group-title="Islamic"  tvg-id="" tvg-logo="https://i.imgur.com/7hnklH9.png",Modina TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9", group-title="bangla",Nexus Television
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
@@ -92,8 +92,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="sports",DD Sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1769444371&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a65aecdba4a6b91ef881721b35362a9a
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142" group-title="sports",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
@@ -106,11 +104,8 @@ https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" group-title="sports",Rta sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png"group-title="sports",LaLiGA
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/laligauk.m3u8?md5=C0yx5I0kLqCmG8qQiQyogw&expires=1769329947
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://previews.123rf.com/images/devidgrutz/devidgrutz1811/devidgrutz181100071/112383403-live-football-streaming-icon-badge-button-for-broadcasting-or-online-football-stream.avif", Football Live
+
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://t4.ftcdn.net/jpg/02/11/51/53/240_F_211515361_bnIbyKadClzn3hJT0zCPPuPApcG7k3lC.jpg",Football 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
