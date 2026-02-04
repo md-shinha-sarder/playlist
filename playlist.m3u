@@ -80,9 +80,9 @@ https://tv.ottking.top:443/ottking247/fuckyou/14.m3u8
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.cricexec.com/wp-content/uploads/2025/10/cricket-gold-logo-2025-300x169.webp" group-tittle="sports", Cricket Gold  Old
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-#EXTINF:-1, tv-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-tittle="sports", A sports
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-tittle="sports", A sports
 https://tv.ottking.top:443/ottking247/fuckyou/96.m3u8
-#EXTINF:-1, tv-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-tittle="sports", PTV sports
+#EXTINF:-1, tvg-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-tittle="sports", PTV sports
 https://tv.ottking.top:443/ottking247/fuckyou/90.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_TRACE_Sports.svg/1280px-Logo_TRACE_Sports.svg.png?20210718024940",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
