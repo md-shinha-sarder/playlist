@@ -137,7 +137,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
                     
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/sport-1-logo-png_seeklogo-314599.png" group-title="sports", SPORTS 1 
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Sport2_logo_old.svg/revision/latest/scale-to-width-down/300?cb=20100529170206" group-title="sports", SPORTS 2
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/50/1/sport-tv2-2023-logo-png_seeklogo-504105.png" group-title="sports", SPORTS 2
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1280px-SporTV3_2021.png?20220123200951" group-title="sports", SPORTS 3
 https://pepsi3.abntv.live/hls/psp3.m3u8
