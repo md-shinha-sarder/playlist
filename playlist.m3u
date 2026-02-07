@@ -67,7 +67,8 @@ https://cd198.anystream.uk:8082/hls/iq53la/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png",ENTER10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
+#EXTINF:-1 tvg-id="65" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png" group-title="News",Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 group-title="Islamic"  tvg-id="" tvg-logo="https://i.imgur.com/7hnklH9.png",Modina TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9", group-title="bangla",Nexus Television
