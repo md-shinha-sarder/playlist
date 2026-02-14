@@ -53,8 +53,8 @@ https://cd198.anystream.uk:8082/hls/iq53la/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707_141739.png" group-title="sports", T Sports
 https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
 https://padmaonline.duckdns.org:8088/T-SportHD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://d2liqplnt17rh6.cloudfront.net/coverImages/tapmadnewcoveer_e663773d-773b-41f7-a3cb-e896ad99fa55-686.jpeg" group-title="sports", Tapmad
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc1-1series/level_0.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/lnd/20241122/xq/a0ef7ddce1e39ed793d9dde4e5b3bd.webp" group-title="sports", Prime
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/1pasle3psa/out/v1/d25c047441ed467595c8085109e0d73f/cenc.mpd
 #EXTINF:-1  tvg-logo="https://www.cricexec.com/wp-content/uploads/2025/10/cricket-gold-logo-2025-300x169.webp" group-title="sports" , Cricket Gold  Old
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
