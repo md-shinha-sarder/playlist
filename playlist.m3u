@@ -21,9 +21,11 @@ https://bongoflixbd.top/somoy.m3u8?user=bongoflix&pass=eaminvai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLmPznJr/20250529-071852.png" group-title="News", Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://bongoflixbd.top/channel24.m3u8?user=bongoflix&pass=eaminvai
-
+#EXTINF:-1 group-title="bangla" tvg-logo="https://tvassets.roarzone.info/images/15.png",SA TV
+https://satoshi-cors.herokuapp.com/http://116.204.149.16/satv/index.m3u8
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8asian
-
+#EXTINF:-1 group-title="bangla" tvg-logo="https://tvassets.roarzone.info/images/56.png",MY TV
+https://satoshi-cors.herokuapp.com/http://116.204.149.16/mytv/index.m3u8
 #EXTINF:-1  tvg-logo="https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe", group-title="News",DBC News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
 https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/mono.m3u8
@@ -42,6 +44,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Bangla_film_claperpboard.png" group-title="bangla", Bangla Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Bangla_film_claperpboard.png" group-title="bangla", Maasranga
+https://satoshi-cors.herokuapp.com/http://116.204.149.16/maasranga/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9", group-title="bangla",Nexus Television
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="bangla",Green TV
