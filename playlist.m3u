@@ -40,7 +40,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0xCDZqj/20250529-071258.png" group-title="News", Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 group-title="bangla" tvg-logo="https://tvassets.roarzone.info/images/59.png",Nagorik TV
-https://cricxtv.site/player.php?url=https://cricxtv.site/cdn/54.m3u8
+https://cricxtv.site/cdn/54.m3u8
 #EXTINF:-1 group-title="bangla" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg?w=1600&q=75",Srk Tv
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1771249586875-9ae7bfe0-db3a-4f60-abc4-abf1461030e1.jpg" group-title="bangla",Pcv 
@@ -59,7 +59,6 @@ https://satoshi-cors.herokuapp.com/http://116.204.149.16/maasranga/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="bangla",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/spHQvPTh/NEWS18-BANGLA.png", NEWS18 BANGLA
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Islamic"  tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png",Peace TV Bangla
@@ -86,6 +85,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707_141739.png" group-title="sports", T Sports
+https://cricxtv.site/cdn/index.php?proxy_m3u8=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvVC1TUE9SVFMtSEQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPTdlYTRhNDFhOTMyOTk0NzAzY2IzNjFjZjBlYmE3ZWExZDk5OTdmM2MtNGQ4ZGYyMzc0NzE5NDUzMjJhM2U3ZmUyY2FlYjY2ZWEtMTc3MTg2Njk0NS0xNzcxODU2MTQ1
 https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
 https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
 https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
