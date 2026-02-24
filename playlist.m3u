@@ -89,7 +89,7 @@ https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
 https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
 https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
 https://padmaonline.duckdns.org:8088/T-SportHD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.flysat.com/images/uploads/Channel/solh-sports.png" group-title="sports", Solhsports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMmMByrbaLCFU6BqowGKnTpkVXG-FGcYjG2Q&s" group-title="sports", Solhsports
 https://stream1.liveland.af/hls/tv/solh-sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_HU6VDN3GTlUU_aVwZjCL8aiIiH7g4vjxvg&s" group-title="sports",AF Sports
 https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8
