@@ -45,7 +45,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image2url.com/r2/default/images/1771249586875-9ae7bfe0-db3a-4f60-abc4-abf1461030e1.jpg" group-title="bangla",Pcv 
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
-
 #EXTINF:-1 group-title="bangla" tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png",Mohona TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="93" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="News",ATN News
@@ -138,7 +137,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" group-title="sports",Rta sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-108693714,imgsize-10408,width-400,resizemode-4/108693714.jpg" group-title="sports",Willow Cricbuzz
+https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 #EXTINF:-1   tvg-logo="https://images.seeklogo.com/logo-png/11/2/real-madrid-c-f-logo-png_seeklogo-116415.png" group-title="sports",Real Madrid FC
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
                     
