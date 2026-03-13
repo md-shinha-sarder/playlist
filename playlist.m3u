@@ -33,8 +33,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://tvassets.roarzone.info/images/ekhon-tv.jpg",Ekhon
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-#EXTINF:-1 group-title="bangla" tvg-logo="https://tvassets.roarzone.info/images/56.png",MY TV
-https://satoshi-cors.herokuapp.com/http://116.204.149.16/mytv/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe", group-title="News",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-id="131" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png" group-title="bangla",ATN Bangla
@@ -85,10 +84,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/in.chauka.eventapps.msports/fffef720-b814-11e8-942b-61efc3924ebc/128x128" group-title="sports", M Sports
 https://smart.bengaldigital.live/WWE_Network/index.m3u8
 
-https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
-https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
-https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
-https://padmaonline.duckdns.org:8088/T-SportHD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMmMByrbaLCFU6BqowGKnTpkVXG-FGcYjG2Q&s" group-title="sports", Solhsports
 https://stream1.liveland.af/hls/tv/solh-sports/playlist.m3u8
 
