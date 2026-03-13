@@ -62,6 +62,14 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 group-title="inbangla" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png",ENTER10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/64/40/48644059-544a-7465-cab2-1ca0691957e3/Placeholder.mill/400x400bb-75.webp",IQRA Bangla
+https://cd198.anystream.uk:8082/hls/iq53la/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf" group-title="kids",Kids Pang TV
+https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/500px-PBS_Kids_logo_%282022%29.svg.png" group-title="kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44" group-title="bangla",Khushboo
+https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="65" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png" group-title="News",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
