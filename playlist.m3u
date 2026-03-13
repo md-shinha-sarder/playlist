@@ -81,8 +81,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1770531830984.png",ARY News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/in.chauka.eventapps.msports/fffef720-b814-11e8-942b-61efc3924ebc/128x128" group-title="sports", M Sports
-https://smart.bengaldigital.live/WWE_Network/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/102.png" group-title="Sports",T Sports HD
+https://tvsen7.aynascope.net/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1773401932&token=cd203adf1306b74bce6a7a37736e3b81&u=8272bade-b8e1-44a0-98aa-04573b82f8d8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMmMByrbaLCFU6BqowGKnTpkVXG-FGcYjG2Q&s" group-title="sports", Solhsports
 https://stream1.liveland.af/hls/tv/solh-sports/playlist.m3u8
